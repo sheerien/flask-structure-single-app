@@ -29,10 +29,17 @@ But if you are using linux or unix
 ```bash
 source ./venv/bin/activate 
 ```
+
 - mkdir src
 - cd src
 
-clone from this repo
+- now clone from this repo
+
+```cmd
+git clone https://github.com/sheerien/flask-structure-single-app.git
+```
+
+- install all flask-project dependencies 
 
 ```bash
 pip install -r requirements.txt
