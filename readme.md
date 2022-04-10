@@ -35,3 +35,22 @@ clone from this repo
 ```bash
 pip install -r requirements.txt
 ```
+- create .env file
+
+```cmd
+touch .env
+```
+
+copy data from .env.example to .env
+
+And write these values into the .env file
+
+FLASK_ENV= development
+FLASK_APP= run.py
+
+- run app
+
+```cmd
+flask run
+```
+
