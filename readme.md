@@ -30,14 +30,14 @@ But if you are using linux or unix
 source ./venv/bin/activate 
 ```
 
-- mkdir src
-- cd src
-
 - now clone from this repo
 
 ```cmd
 git clone https://github.com/sheerien/flask-structure-single-app.git
 ```
+
+- rename folder from flask-structure-single-app to src
+- cd src
 
 - install all flask-project dependencies 
 
