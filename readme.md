@@ -54,8 +54,8 @@ copy data from .env.example to .env
 
 And write these values into the .env file
 
-FLASK_ENV= development
-FLASK_APP= run.py
+- FLASK_ENV= development 
+- FLASK_APP= run.py
 
 - run app
 
