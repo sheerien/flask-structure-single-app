@@ -6,6 +6,8 @@ A ready-to-work template is a blueprint for a single flash app
 - mkdir project-name
 - cd project-name
 
+* install and activate virtualenv
+
 ```bash
 python3 -m venv venv 
 ```
